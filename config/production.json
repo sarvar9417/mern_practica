@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "mongoUri": "mongodb+srv://sarvar:6622332Sa@cluster0.skfii.mongodb.net/myApp?retryWrites=true&w=majority",
+  "jwtSecret": "sarvar9417",
+  "baseUrl": "http://localhost:5000"
+}
